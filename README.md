@@ -1,1 +1,5 @@
-# citibike_presentation-
+# citibike_presentation
+
+
+
+ quarto preview .\index.qmd
